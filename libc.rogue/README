@@ -1,0 +1,12 @@
+
+libc.rogue introduction : 
+=========================
+
+. libc.rogue is a BSD based libc for embedded machines. It was made with
+a small memory footprint in mind.
+
+compiling libc.rogue :
+======================
+
+. See the README file in the mk/ directory for compiling libc.rogue
+

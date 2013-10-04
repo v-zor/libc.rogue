@@ -1,6 +1,6 @@
 ##
 
-CC=gcc
+CC=powerpc64-ps3-elf-gcc
 CFLAGS=-I../include -I../include/sys -I../include/sys/arch/powerpc/include \
 	-Wno-attributes
 

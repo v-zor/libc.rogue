@@ -1,0 +1,7 @@
+. copy the Makefile for your architecture to the src/ directory (to filename
+'Makefile', then run make or 'make -f Makefile.xxxxx' or 'make -f Makefile'.
+
+. Files :
+
+'Makefile.powerpc64-ps3' is for the Sony PS3 gnu toolchain
+'Makefile.powerpc-eabi' is for the Nintendo Wii

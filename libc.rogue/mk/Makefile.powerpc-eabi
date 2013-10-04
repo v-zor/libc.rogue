@@ -1,6 +1,6 @@
 ##
 
-CC=gcc
+CC=powerpc-eabi-gcc
 CFLAGS=-I../include -I../include/sys -I../include/sys/arch/powerpc/include \
 	-Wno-attributes
 

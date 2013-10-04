@@ -286,6 +286,8 @@ wrterror(char *msg, void *p)
 	if (p == NULL)
 		iov[4].iov_len = 0;
 	else {
+		/* FIX added the following line */
+		*buf;
 /*FIX		snprintf(buf, sizeof(buf), " %p", p);
 		iov[4].iov_len = strlen(buf);
 */	}
