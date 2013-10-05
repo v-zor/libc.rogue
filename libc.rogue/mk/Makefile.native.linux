@@ -17,4 +17,4 @@ all:
 	ranlib libc.rogue.a
 
 clean:
-	rm -f *.o
+	rm -f *.o libc.rogue.a
